@@ -1,4 +1,5 @@
-<h1>Hi, I'm Yash</h1>
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Terminess+Nerd+Font+Mono&weight=900&pause=1000&color=1CE2BF&vCenter=true&width=435&lines=Hi%2C+I'm+Yash)](https://git.io/typing-svg)
+
 <h3>A Fullstack Developer, and a CyberSecurity beginner from India</h3>
 
 **`Digital Craftsman`**
