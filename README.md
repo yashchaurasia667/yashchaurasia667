@@ -3,6 +3,7 @@
 <h3>A Fullstack Developer, and a CyberSecurity beginner from India</h3>
 
 **`Digital Craftsman`**
+`All hail 0xdeadbeef`
 
 - ⌨️ currently working on [Lox interpreter](https://github.com/yashchaurasia667/crafting-interpreters)
 
