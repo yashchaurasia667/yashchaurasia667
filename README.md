@@ -5,7 +5,7 @@
 **`Digital Craftsman`**
 `All hail 0xdeadbeef`
 
-- ⌨️ currently working on [Lox interpreter](https://github.com/yashchaurasia667/crafting-interpreters)
+- ⌨️ currently working on [Proximity web chat](https://github.com/yashchaurasia667/proximity-web-chat.git)
 
 - 🌱 I’m currently learning **`Java, x86asm, Binary Exploitation`**
 
