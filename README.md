@@ -5,7 +5,7 @@
 **`Digital Craftsman`**
 `All hail 0xdeadbeef`
 
-- ⌨️ currently working on [Proximity web chat](https://github.com/yashchaurasia667/proximity-web-chat.git)
+- ⌨️ currently working on [Torrent client](https://github.com/yashchaurasia667/torrent-client.git)
 
 - 🌱 I’m currently learning **`Java, x86asm, Binary Exploitation`**
 
