@@ -5,7 +5,7 @@
 **`Digital Craftsman`**
 `All hail 0xdeadbeef`
 
-- ⌨️ currently working on [Torrent client](https://github.com/yashchaurasia667/torrent-client.git)
+- ⌨️ currently working on [Graphics Programming](https://github.com/yashchaurasia667/graphics-programming.git)
 
 - 🌱 I’m currently learning **`Java, x86asm, Binary Exploitation`**
 
