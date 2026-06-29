@@ -7,9 +7,9 @@
 
 - ⌨️ currently working on [Graphics Programming](https://github.com/yashchaurasia667/graphics-programming.git)
 
-- 🌱 I’m currently learning **`Java, x86asm, Binary Exploitation`**
+- 🌱 I’m currently learning **`Binary Exploitation, Vulkan`**
 
-- 👯 I’m looking to collaborate on **Low level or cybersecurity projects**
+- 👯 I’m looking to collaborate on **cyberseccurity/graphics programming projects**
 
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/yashchaurasia667)
 
