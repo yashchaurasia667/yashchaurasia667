@@ -26,17 +26,4 @@
 
 <h3 align="left">Languages & Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,electron,express,flask,github,html,java,js,linux,mongodb,nodejs,py,react,tailwind,ts,vim,&theme=dark)](https://skillicons.dev)
-
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashchaurasia667&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="yashchaurasia667" />
-</p>
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchaurasia667&show_icons=true&locale=en&theme=github_dark" alt="yashchaurasia667" />
-</p>
-<!--
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchaurasia667&" alt="yashchaurasia667" />
-</p>
--->
+[![My Skills](https://skillicons.dev/icons?i=arch,astro,bash,bun,c,cpp,cmake,css,docker,electron,express,flask,firebase,github,go,html,java,js,kafka,linux,lua,mongodb,mysql,neovim,nextjs,nodejs,postgresql,powershell,py,react,redis,supabase,tailwind,tauri,ts,threejs,unity,vim,&theme=dark)](https://skillicons.dev)
